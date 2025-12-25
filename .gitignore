@@ -1,0 +1,12 @@
+# Miscellaneous
+.history/
+
+# Minecraft
+world/
+logs/
+crash-reports/
+usercache.json
+*.log
+
+# Windows Specific
+run.bat
