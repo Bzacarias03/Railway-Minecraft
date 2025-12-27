@@ -182,10 +182,6 @@ These directories are symlinked from the container's working directory to ensure
 - Adjust `-Xmx` value in `user_jvm_args.txt` based on available RAM
 - For Railway, ensure your plan has sufficient memory allocated
 
-## License
-
-See `LICENSE` file for details.
-
 ## Contributing
 
 1. Fork the repository
