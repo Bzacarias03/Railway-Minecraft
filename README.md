@@ -1,6 +1,8 @@
 # Minecraft Forge Server
 
-
+<div align="center">
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fvariations-to-the-minecraft-logo-v0-0dzqovtefeqd1.png%3Fwidth%3D1218%26format%3Dpng%26auto%3Dwebp%26s%3D4e7beefe76053942332e5c9f4c4f71671f97e63e" alt="Minecraft Logo" />
+</div>
 
 A containerized Minecraft Forge server running Minecraft 1.19.2 with Forge 43.5.2. A very bare bones installation ready for custom modification
 
