@@ -1,7 +1,7 @@
 # Minecraft Forge Server
 
 <div align="center">
-  <img src="https://brandlogos.net/wp-content/uploads/2022/07/minecraft-logo_brandlogos.net_faqdi-512x560.png" alt="Minecraft Logo" />
+  <img src="https://brandlogos.net/wp-content/uploads/2022/07/minecraft-logo_brandlogos.net_faqdi-512x560.png" alt="Minecraft Logo" width="400"/>
 </div>
 
 A containerized Minecraft Forge server running Minecraft 1.19.2 with Forge 43.5.2. A very bare bones installation ready for custom modification
