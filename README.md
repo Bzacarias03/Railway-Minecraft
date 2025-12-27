@@ -11,7 +11,7 @@ This is a fully configured Minecraft Forge server that includes:
 - **Forge Version**: 43.5.2
 - **Java Runtime**: OpenJDK 17 (Eclipse Temurin)
 - **Base Image**: Alpine Linux
-- **Default Memory**: 4GB RAM
+- **Default Memory**: 6GB RAM
 
 ## Features
 
